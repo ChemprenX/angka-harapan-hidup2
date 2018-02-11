@@ -1,0 +1,1 @@
+This is demo view file for ChemprenX\AngkaHarapanHidup package using blade template
